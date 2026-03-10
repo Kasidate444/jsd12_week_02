@@ -1,4 +1,4 @@
-let produtList = [eagle_food, snake_food, lizard_food, eagle_leash, snake_leash, lizard_leash];
+let produtList = [eagle_food, snake_food, dragon_food, eagle_leash, snake_leash, dragon_leash];
 
 const all_product = {
     productId: 0,
@@ -10,7 +10,7 @@ const all_product = {
     price: 60,
 
     productId: 2,
-    productName: "lizard food",
+    productName: "dragon food",
     price: 40,
 
     productId: 3,
@@ -22,7 +22,7 @@ const all_product = {
     price: 90,
 
     productId: 5,
-    productName: "lizard leash",
+    productName: "dragon leash",
     price: 80,
 }
 
